@@ -1,0 +1,8 @@
+<Config>
+	<Title>Oops !!! Your computer is running on battery</Title>
+	<Text>Please plug in the computer before starting deployment</Text>	
+	<GUI_Title>Battery warning</GUI_Title>
+</Config>
+
+
+
